@@ -1,2 +1,2 @@
 # UBER-DATA_ANALYTICS-PROJECT
-This project focuses on analyzing Uber ride data to gain insights .
+This project focuses on analyzing Uber ride data to gain insights into ride patterns, demand trends, and other key metrics to optimize operations and improve customer experience. Using real-world data from Uber, this analysis covers various aspects of the service, such as ride frequency, peak hours, geographic distribution, and factors influencing ride availability and pricing.
